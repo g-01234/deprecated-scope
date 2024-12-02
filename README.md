@@ -1,4 +1,5 @@
-# scope 🔭
+# [*deprecated/unmaintained*]
+scope 🔭
 
 Scope is a VSCode extension for testing and interacting with smart contracts on the Ethereum blockchain. It is currently in early alpha and under active development. It is built on top of [Foundry](https://github.com/foundry-rs/), [ethers-rs](https://github.com/gakonst/ethers-rs) and [egui](https://github.com/emilk/egui); heavy inspiration is drawn from the [Remix project](https://github.com/ethereum/remix-project).
 
