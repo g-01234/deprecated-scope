@@ -25,7 +25,7 @@ In many ways, Scope aims to be a GUI wrapper for Foundry. It is intended to be u
 
 ### Installation
 
-If you run into any issues, DM me on twitter @popular_12345 and I'll help you out. Installation + setup can be a little finnicky currently but I'm aiming to streamline it.
+Installation + setup can be a little finnicky currently but I'm aiming to streamline it.
 
 1. Install the extension from the [VSCode Marketplace](https://marketplace.visualstudio.com/items?itemName=popular.scope-eth)
 2. Ensure you have [foundry installed](https://book.getfoundry.sh/getting-started/installation) and run `foundryup`
